@@ -17,6 +17,7 @@ leftBtn.addEventListener("click", () => {
   index--;
   changeImage();
   resetInterval();
+  
 });
 
 function changeImage() {
